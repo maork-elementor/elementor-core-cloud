@@ -1,4 +1,4 @@
-name: Elementor Tests / Init
+name: Publish Cloud Runner
 
 on: 
   workflow_dispatch:
